@@ -1,0 +1,7 @@
+## RSpec Sidekick Reminder
+
+![Ruby](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1fdc8935-ba5c-4fda-a4a2-f2338b7612ec/df12cv2-a596d7cf-8665-4c2f-bc55-d25481296dbd.png/v1/fill/w_1280,h_831,q_80,strp/steven_universe_ruby_by_unusualpotato1872_df12cv2-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9ODMxIiwicGF0aCI6IlwvZlwvMWZkYzg5MzUtYmE1Yy00ZmRhLWE0YTItZjIzMzhiNzYxMmVjXC9kZjEyY3YyLWE1OTZkN2NmLTg2NjUtNGMyZi1iYzU1LWQyNTQ4MTI5NmRiZC5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.a5XPEd71qVS9XfhSgeaZ0AeYHOh8rF_rImn0oI_VkDc)
+
+This is a sidekick to help you navigate testing with RSpec. It contains use cases of commonly used methods.
+
+This was created as notes from [this](https://www.udemy.com/course/testing-ruby-with-rspec/?couponCode=LETSLEARNNOWPP) RSpec course on Udemy.
